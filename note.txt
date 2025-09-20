@@ -3,3 +3,4 @@
 - Có thể quay lại trạng thái trước đó dễ dàng.
 - Học Git giúp hiểu rõ quy trình phát triển phần mềm.
 - GitHub giúp chia sẻ code dễ dàng hơn.
+- Cập nhật lại thông tin chính xác
