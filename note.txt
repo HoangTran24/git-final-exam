@@ -1,6 +1,8 @@
 - Git giúp quản lý lịch sử thay đổi của dự án.
 - Làm việc nhóm hiệu quả hơn.
 - Có thể quay lại trạng thái trước đó dễ dàng.
+HEAD
 - Học Git giúp hiểu rõ quy trình phát triển phần mềm.
 - GitHub giúp chia sẻ code dễ dàng hơn.
 - Cập nhật lại thông tin chính xác
+parent of c3ca49f (Update note.txt)
