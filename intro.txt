@@ -1,4 +1,7 @@
-Hello, this is <Kim Hoàng Trân>
+
+Hello, this is Kim Hoàng Trân
+Xin chào, tôi là Kim Hoàng Trân
+
 Tôi là sinh viên ngành CNTT tại ...
 Tôi yêu thích công nghệ và học hỏi điều mới.
 Mục tiêu của tôi là trở thành lập trình viên giỏi.
@@ -21,3 +24,6 @@ Kế hoạch học tập:
 - Tham gia các dự án nhóm để tích lũy kinh nghiệm thực tế.
 - Cải thiện tiếng Anh chuyên ngành công nghệ thông tin.
 - Nghiên cứu thêm về lĩnh vực an toàn thông tin và DevOps.
+
+Conflict resolved on 20/09/2025
+
