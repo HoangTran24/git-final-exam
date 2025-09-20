@@ -1,0 +1,16 @@
+Xin chào, tôi là Trần Hoàng.
+Tôi là sinh viên ngành CNTT tại ...
+Tôi yêu thích công nghệ và học hỏi điều mới.
+Mục tiêu của tôi là trở thành lập trình viên giỏi.
+Tôi luôn nỗ lực cải thiện bản thân mỗi ngày.
+
+Sở thích:
+- Đọc sách
+- Xem phim
+- Chơi thể thao
+
+Kỹ năng:
+- Git và GitHub
+- Lập trình Python
+- Làm việc nhóm
+
