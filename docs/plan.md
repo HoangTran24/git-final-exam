@@ -9,6 +9,11 @@
 - Thứ 6: Làm bài tập SQL nâng cao.
 - Thứ 7: Ôn lại toàn bộ kiến thức đã học trong tuần.
 - Chủ nhật: Thực hành mini-project tổng hợp.
+<<<<<<< Updated upstream
 - Hoàn thành đồ án môn học
 - Luyện tập Git nâng cao
 - Học thêm Docker và Kubernetes
+=======
+- Tham gia workshop về DevOps
+- Viết báo cáo học kỳ
+>>>>>>> Stashed changes
