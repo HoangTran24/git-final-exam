@@ -1,4 +1,4 @@
-Xin chào, tôi là Trần Hoàng.
+Hello, this is <Kim Hoàng Trân>
 Tôi là sinh viên ngành CNTT tại ...
 Tôi yêu thích công nghệ và học hỏi điều mới.
 Mục tiêu của tôi là trở thành lập trình viên giỏi.
