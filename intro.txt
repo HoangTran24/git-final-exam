@@ -14,3 +14,10 @@ Kỹ năng:
 - Lập trình Python
 - Làm việc nhóm
 
+
+Kế hoạch học tập:
+- Hoàn thành đầy đủ tất cả môn học trong kỳ này.
+- Dành ít nhất 1 giờ mỗi ngày để luyện tập lập trình.
+- Tham gia các dự án nhóm để tích lũy kinh nghiệm thực tế.
+- Cải thiện tiếng Anh chuyên ngành công nghệ thông tin.
+- Nghiên cứu thêm về lĩnh vực an toàn thông tin và DevOps.
