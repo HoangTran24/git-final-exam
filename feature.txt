@@ -1,0 +1,7 @@
+# Tính năng mới: Quản lý người dùng
+
+- Đăng ký tài khoản với email.
+- Đăng nhập bằng email và mật khẩu.
+- Cập nhật thông tin cá nhân.
+- Đổi mật khẩu an toàn.
+- Xóa tài khoản khi không sử dụng.
