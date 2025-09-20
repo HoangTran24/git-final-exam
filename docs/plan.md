@@ -9,3 +9,6 @@
 - Thứ 6: Làm bài tập SQL nâng cao.
 - Thứ 7: Ôn lại toàn bộ kiến thức đã học trong tuần.
 - Chủ nhật: Thực hành mini-project tổng hợp.
+- Hoàn thành đồ án môn học
+- Luyện tập Git nâng cao
+- Học thêm Docker và Kubernetes
